@@ -1,0 +1,47 @@
+
+
+.Capital{
+    color: #052599 ;
+}
+
+.Paris.Capital{
+    background-color: beige;
+    color: red;
+}
+
+#london
+{
+    background-color: pink;
+}
+
+
+span{
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.notebox{
+    border: 4pxsolid#666;padding: .5em;
+}
+
+.notebox.warning{
+    border-color: orange;font-weight: bold;
+}
+.notebox.danger{
+    border-color: red;font-weight: bold;
+}
