@@ -1,4 +1,9 @@
 
+*{
+    font-family: 'Crimson Text', serif;
+}
+
+
 
 .Capital{
     color: #052599 ;
@@ -30,7 +35,10 @@
 
 }
 
-
+h1,h2{
+    font-family: 'Roboto', sans-serif;
+    text-align:center;
+}
 
 
 
